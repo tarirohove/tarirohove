@@ -17,7 +17,3 @@ I am a dedicated and passionate software developer with a strong focus on buildi
 - **Weather Application**: Developed a Spring Boot application that integrates with the OpenWeatherMap API to provide real-time weather data. Implemented rate limiting, robust error handling, and comprehensive testing.
 - **E-commerce Platform**: Built a full-featured e-commerce application with Spring Boot and Angular, incorporating user authentication, product management, and order processing.
 
-### Contact
-
-Feel free to connect with me or explore my projects on [GitHub](https://github.com/tarirohove]
-
